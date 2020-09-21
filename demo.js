@@ -23,6 +23,7 @@ http
     res.end();
   })
   .listen(5000);
+<<<<<<< HEAD
   //add some new code.
   let arr = {
     232: {
@@ -183,3 +184,5 @@ http
 
   console.log("new branch for checking")
 
+=======
+>>>>>>> 75a2280... Revert "Revert "add multiplecation function add""
